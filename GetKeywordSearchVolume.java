@@ -79,7 +79,7 @@ public static void runExample(
 
  // Create related to query search parameter to specify a list of seed keywords from which to generate new ideas:
  RelatedToQuerySearchParameter relatedToQuerySearchParameter = new RelatedToQuerySearchParameter();
- relatedToQuerySearchParameter.setQueries(new String[] {"goldstrand party"});
+ relatedToQuerySearchParameter.setQueries(new String[] {"hotel Berlin"});
  
  
  // Language setting (optional).
