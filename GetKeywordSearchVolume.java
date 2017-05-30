@@ -38,7 +38,7 @@ import java.util.Map;
 * <p>Credentials and properties in {@code fromFile()} are pulled from the
 * "ads.properties" file. See README for more info.
 */
-public class _2GetKeywordSearchVolume {
+public class 2GetKeywordSearchVolume {
 
 public static void main(String[] args) throws Exception {
  // Generate a refreshable OAuth2 credential.
