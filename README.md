@@ -11,8 +11,8 @@ The class works with the .v201607 API von Google AdWords
 Example: 
 you search for the Keywords "hotel Berlin"
 
-outcome: 
-Year - Month - Count  
+outcome:   
+Year - Month - Count    
 2017 4 201000  
 2017 3 201000  
 2017 2 201000  
